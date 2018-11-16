@@ -1,0 +1,8 @@
+C:\Users\POL4439\Desktop\csharp projects\MikeForensicLib\MikeForensicLib\bin\Debug\MikeForensicLib.dll
+C:\Users\POL4439\Desktop\csharp projects\MikeForensicLib\MikeForensicLib\bin\Debug\MikeForensicLib.pdb
+C:\Users\POL4439\Desktop\csharp projects\MikeForensicLib\MikeForensicLib\obj\Debug\MikeForensicLib.csprojResolveAssemblyReference.cache
+C:\Users\POL4439\Desktop\csharp projects\MikeForensicLib\MikeForensicLib\obj\Debug\MikeForensicLib.csproj.CoreCompileInputs.cache
+C:\Users\POL4439\Desktop\csharp projects\MikeForensicLib\MikeForensicLib\obj\Debug\MikeForensicLib.dll
+C:\Users\POL4439\Desktop\csharp projects\MikeForensicLib\MikeForensicLib\obj\Debug\MikeForensicLib.pdb
+C:\Users\POL4439\Desktop\csharp projects\DLLs\MikeForensicLib.dll
+C:\Users\POL4439\Desktop\csharp projects\DLLs\MikeForensicLib.pdb
