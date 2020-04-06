@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MikeForensicLib
 {
-    static public class Convert
+    static public class Conversions
     {
         static public byte[] FromHexString(string input)
         {
@@ -46,12 +46,12 @@ namespace MikeForensicLib
         {
             static public string ToHexString(this IEnumerable<byte> input, string prefix = "", string separator = "")
             {
-                return Convert.ToHexString(input, prefix, separator);
+                return Conversions.ToHexString(input, prefix, separator);
             }
 
             static public byte[] FromHexString(this string input)
             {
-                return Convert.FromHexString(input);
+                return Conversions.FromHexString(input);
             }
         }
     }
